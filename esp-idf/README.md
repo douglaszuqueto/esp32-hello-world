@@ -46,3 +46,7 @@ void app_main()
 ```
 
 ## Referências
+ 
+ * [ESP-IDF - Documentation](http://esp-idf.readthedocs.io/)
+ * [ESP-IDF](https://github.com/espressif/esp-idf)
+ * [ESP-IDF - Get Started(blink)](https://github.com/espressif/esp-idf/blob/master/examples/get-started/blink)
